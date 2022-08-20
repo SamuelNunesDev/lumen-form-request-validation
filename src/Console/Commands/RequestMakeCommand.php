@@ -1,8 +1,8 @@
 <?php
 
-namespace SamuelNunes\Console\Commands;
+namespace SamuelNunes\LumenFormRequestValidation\Console\Commands;
 
-use SamuelNunes\Contracts\GenerateStubMethodsContract;
+use SamuelNunes\LumenFormRequestValidation\Contracts\GenerateStubMethodsContract;
 use Illuminate\Console\Command;
 
 class RequestMakeCommand extends Command implements GenerateStubMethodsContract

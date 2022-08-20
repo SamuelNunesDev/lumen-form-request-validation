@@ -1,8 +1,8 @@
 <?php 
 
-namespace SamuelNunes\Requests;
+namespace SamuelNunes\LumenFormRequestValidation\Requests;
 
-use SamuelNunes\Contracts\BasicRequestMethodsContract;
+use SamuelNunes\LumenFormRequestValidation\Contracts\BasicRequestMethodsContract;
 use Laravel\Lumen\Routing\ProvidesConvenienceMethods;
 
 class BaseRequest implements BasicRequestMethodsContract

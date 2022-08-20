@@ -1,6 +1,6 @@
 <?php
 
-namespace SamuelNunes\Requests;
+namespace SamuelNunes\LumenFormRequestValidation\Requests;
 
 use Illuminate\Http\Request;
 

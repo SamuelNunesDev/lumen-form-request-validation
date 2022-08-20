@@ -1,6 +1,6 @@
 <?php
 
-namespace SamuelNunes\Console\Commands;
+namespace SamuelNunes\LumenFormRequestValidation\Console\Commands;
 
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Str;

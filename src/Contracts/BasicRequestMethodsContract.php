@@ -1,6 +1,6 @@
 <?php
 
-namespace SamuelNunes\Contracts;
+namespace SamuelNunes\LumenFormRequestValidation\Contracts;
 
 interface BasicRequestMethodsContract
 {
