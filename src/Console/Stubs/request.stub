@@ -2,7 +2,7 @@
 
 namespace {{ namespace }};
 
-use SamuelNunes\LumenFormRequestValidation\Requests;
+use SamuelNunes\LumenFormRequestValidation\Requests\BaseRequest;
 
 class {{ class }} extends BaseRequest
 {
