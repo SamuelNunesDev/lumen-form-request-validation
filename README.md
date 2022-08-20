@@ -19,8 +19,8 @@ Next, you must load the Artisan commands:
 ```php
 // app/Console/Kernel.php
 protected $commands = [
-        \App\Console\Commands\RequestMakeCommand::class,
-        \App\Console\Commands\RuleMakeCommand::class
+        \SamuelNunes\LumenFormRequestValidation\Console\Commands\RequestMakeCommand::class,
+        \SamuelNunes\LumenFormRequestValidation\Console\Commands\RuleMakeCommand::class
     ];
 ```
 
