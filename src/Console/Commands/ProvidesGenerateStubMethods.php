@@ -48,7 +48,7 @@ trait ProvidesGenerateStubMethods
      */
     public function getStub()
     {
-        return  app()->basePath('/app/Console/Stubs/'.$this->stubName.'.stub');
+        return  app()->basePath('vendor/samuel-nunes/lumen-form-request-validation/src/Console/Stubs/'.$this->stubName.'.stub');
     }
 
     /**
